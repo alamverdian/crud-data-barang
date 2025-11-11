@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CRUD Barang Laravel
 
 A simple CRUD (Create, Read, Update, Delete) application for managing items using Laravel.  
@@ -65,27 +64,3 @@ Digunakan untuk memperbarui data barang tertentu.
 ### ✅ 4. Notifikasi Berhasil (Flash Message)
 Muncul saat melakukan create, update, atau delete.
 ![Success Message](https://github.com/user-attachments/assets/98538aeb-988a-4fb2-8828-3bbbd5cbf3de)
-=======
-# CRUD Data Barang
-
-Proyek sederhana untuk mengelola data barang menggunakan PHP dan MySQL.
-
-## ✅ Tech Stack
-- PHP
-- MySQL
-- HTML
-- CSS
-- Bootstrap
-
-## ✅ Fitur
-- Tambah data
-- Edit data
-- Hapus data
-- Tampilkan data dalam tabel
-
-## ✅ Cara Menjalankan
-1. Import database.sql ke phpMyAdmin
-2. Jalankan XAMPP
-3. Simpan folder proyek ke htdocs
-4. Buka di browser: http://localhost/crud-data-barang/
->>>>>>> 7d1d723833c77dc32eb939e21eb5b502dc10c514
